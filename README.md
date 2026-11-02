@@ -48,7 +48,7 @@ O **EO HD – Trocador de Retratos** faz isso por você. Sem planilhas, sem linh
 |------|----------|
 | **Etrian Odyssey HD (EO1)** | ✅ Funcionando |
 | **Etrian Odyssey II HD (EO2)** | ✅ Funcionando |
-| **Etrian Odyssey III HD (EO3)** | 🧪 **Em testes** — as imagens ficam em outro tipo de arquivo. Teste com **UMA** imagem primeiro e **[conte como foi](https://github.com/yurammaruy/eo_hd-trocador-de-retratos/issues/new/choose)**: seu relato ajuda a deixar o EO3 perfeito! |
+| **Etrian Odyssey III HD (EO3)** | ✅ Funcionando |
 
 ## 📥 Instalação em 3 passos
 
